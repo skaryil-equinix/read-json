@@ -1,0 +1,16 @@
+{
+  "persons":[
+    {
+      "name": "thiery",
+      "age": 20,
+      "email": "thiery@gmail.com",
+      "address": ["mg road", "Bangalore"]
+    },
+    {
+      "name": "henry",
+      "age": 14,
+      "email": "henry@gmail.com",
+      "address": ["north london", "London"]
+    }
+  ]
+}
